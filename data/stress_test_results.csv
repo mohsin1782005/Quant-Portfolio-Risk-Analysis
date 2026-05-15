@@ -1,0 +1,5 @@
+Scenario,Return_Impact,Portfolio_Value_Loss
+Normal Day (Mean),0.00045613583486030695,456.13583486030694
+Market Crash (-15%),-0.15,-150000.0
+Currency Crisis (+5% USD/INR),-0.05,-50000.0
+Combined Extreme Event,-0.2,-200000.0
